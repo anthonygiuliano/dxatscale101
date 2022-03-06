@@ -10,6 +10,7 @@
         <name>AuraDefinitionBundle</name>
     </types>
     <types>
+        <members>ContactController</members>
         <members>GeocodingService</members>
         <members>GeocodingServiceTest</members>
         <members>PagedResult</members>
@@ -95,5 +96,5 @@
         <members>Settings</members>
         <name>CustomTab</name>
     </types>
-    <version>52.0</version>
+    <version>53.0</version>
 </Package>
